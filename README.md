@@ -1,4 +1,4 @@
-# UNET_sem_seg_pascal
+# UNET semantic segmentation
 UNET semantic segmentation on pascal-context dataset
 
 reference: https://cs.stanford.edu/~roozbeh/pascal-context/
